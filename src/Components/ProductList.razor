@@ -4,7 +4,7 @@
 @inject JsonFileProductService ProductService
 
 <div class="card-columns">
-    @foreach (var product in ProductService.GetAllData())
+    @foreach (var product in ProductService.GetProducts())
     {
         <div class="card">
             <div class="card-img" style="background-image: url('@product.Image');">
@@ -81,7 +81,7 @@
     void SelectProduct(string productId)
     {
         selectedProductId = productId;
-        selectedProduct = ProductService.GetAllData().First(x => x.Id == productId);
+        selectedProduct = ProductService.GetProducts().First(x => x.Id == productId);
         GetCurrentRating();
     }
 
