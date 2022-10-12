@@ -15,6 +15,8 @@ namespace ContosoCrafts.WebSite.Models
         public string Description { get; set; }
         public int[] Ratings { get; set; }
 
+        public string DogType { get; set; }
+
         public override string ToString() => JsonSerializer.Serialize<ProductModel>(this);
 
 
