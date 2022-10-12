@@ -4,8 +4,8 @@
     "Maker": "@jenlooper",
     "img": "https://cdn.rescuegroups.org/5922/pictures/animals/17094/17094275/80946921.jpg",
     "Url": "https://www.hackster.io/agent-hawking-1/the-quantified-cactus-an-easy-plant-soil-moisture-sensor-e65393",
-    "Title": "The Quantified Cactus: An Easy Plant Soil Moisture Sensor",
-    "Description": "This project is a great learning project to get comfortable with soldering and programming an Arduino.",
+    "Title": "Ester - A Young Female Mixed Breed Dog  available for Adoption",
+    "Description": "Ester is house-broken and available for immediate adoption.",
     "Ratings": [
       5,
       5,
@@ -14,7 +14,7 @@
       1,
       5
     ],
-    "ProductType": 55,
+    "DogType": "Terrior",
     "Quantity": null,
     "Price": 0,
     "CommentList": []
@@ -22,12 +22,25 @@
   {
     "Id": "jenlooper-light",
     "Maker": "jenlooper",
-    "img": "https://user-images.githubusercontent.com/41929050/61567049-13938600-aa33-11e9-9c69-a4184bf8e524.jpeg",
-    "Url": "https://www.hackster.io/agent-hawking-1/book-light-dee7e4",
-    "Title": "A beautiful switch-on book light",
-    "Description": "Use craft items you have around the house, plus two LEDs and a LilyPad battery holder, to create a useful book light for reading in the dark.",
+    "img": "https://cdn.rescuegroups.org/151/pictures/animals/17537/17537592/87789555.jpg?width=500",
+    "Url": "https://cdn.rescuegroups.org/151/pictures/animals/17537/17537592/87789555.jpg?width=500",
+    "Title": "Thomas - A Young male Mixed Breed Dog  available for Adoption",
+    "Description": "Thomas is house-broken and available for immediate adoption.",
     "Ratings": null,
-    "ProductType": 1,
+    "DogType": "Mixed ???",
+    "Quantity": null,
+    "Price": 0,
+    "CommentList": []
+  },
+  {
+    "Id": "jenlooper-light2",
+    "Maker": "jenlooper2",
+    "img": "https://cdn.rescuegroups.org/151/pictures/animals/18572/18572902/90405419.jpg?width=500",
+    "Url": "https://cdn.rescuegroups.org/151/pictures/animals/18572/18572902/90405419.jpg?width=500",
+    "Title": "Cassidy - A Young male German Shepherd available for Adoption",
+    "Description": "Cassidy is house-broken and available for immediate adoption.",
+    "Ratings": null,
+    "DogType": "German Shepherd",
     "Quantity": null,
     "Price": 0,
     "CommentList": []
