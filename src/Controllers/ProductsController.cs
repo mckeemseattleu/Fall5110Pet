@@ -21,7 +21,7 @@ namespace ContosoCrafts.WebSite.Controllers
         [HttpGet]
         public IEnumerable<ProductModel> Get()
         {
-            return ProductService.GetAllData();
+            return ProductService.GetProducts();
         }
 
         [HttpPatch]
